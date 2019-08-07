@@ -1,0 +1,15 @@
+.header {
+  margin: 10px 0 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .heading {
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+  }
+
+  .subheading {
+    font-size: 20px;
+  }
+}
